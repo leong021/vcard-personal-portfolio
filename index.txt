@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Leong Kai Sheng
+Leong Kai Sheng
+3D Animation Student
 
 Show Contacts
 
